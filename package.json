@@ -1,0 +1,13 @@
+{
+  "name": "brandline-team-nalanda",
+  "version": "1.0.0",
+  "description": "Brandline \u2014 AI Brand Governance that reviews content before it goes live, explains every issue, suggests fixes, and keeps humans in control.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
